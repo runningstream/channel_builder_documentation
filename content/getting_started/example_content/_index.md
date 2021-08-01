@@ -16,9 +16,13 @@ The [Internet Archive](https://archive.org) has a wide range of freely available
 * https://archive.org/download/popeye-pubdomain/Aladdin-and-His-Wonderful-Lamp.mp4
 * https://archive.org/download/popeye-pubdomain/Ancient-Fistory.mp4
 
+Here's an image you can use as the Image URL: [Popeye Image](popeye_image.png)
+
 Another popular set are the [Pink Panther](https://archive.org/details/ThePinkPanther-cartoons/) videos.  There, the "H.264" section has links that work with Roku...  Here are some you'll find there:
 
 * https://archive.org/download/ThePinkPanther-cartoons/The%20Pink%20Panther%20in%20-A%20Fly%20in%20the%20Pink.mp4
 * https://archive.org/download/ThePinkPanther-cartoons/The%20Pink%20Panther%20in%20-An%20Ounce%20of%20Pink.mp4
 * https://archive.org/download/ThePinkPanther-cartoons/The%20Pink%20Panther%20in%20-Bobolink%20Pink.mp4
 * https://archive.org/download/ThePinkPanther-cartoons/The%20Pink%20Panther%20in%20-Bully%20for%20Pink.mp4
+
+Here's an image you can use as the Image URL: [Pink Panther Image](pinkpanther_image.png)
