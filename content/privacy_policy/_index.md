@@ -2,8 +2,15 @@
 title: "Privacy Policy"
 date: 2021-07-11T14:29:29-05:00
 description: "The Running Stream privacy policy"
+weight: 1
 draft: false
 ---
+
+# In Short
+
+We will never give anyone else your information.  You will only ever receive a signup confirmation email from us.
+
+# In Long
 
 At Running Stream, accessible from https://runningstream.cc, one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by Running Stream and how we use it.
 

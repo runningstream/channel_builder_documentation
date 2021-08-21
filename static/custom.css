@@ -1,0 +1,5 @@
+figure {
+    border: var(--footer-background) 2px solid;
+    text-align: center;
+    font-style: italic;
+}

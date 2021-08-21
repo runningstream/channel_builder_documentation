@@ -5,6 +5,6 @@ description: "Running Stream, personal streaming channel, documentation"
 draft: false
 ---
 
-It's easy to get started with Running Stream - check out the [Getting Started](getting_started) section.
+It's easy to get started with Running Stream!  Check out the getting started section for more.
 
-If you just want some streaming material to play with, check out [Example Content](getting_started/example_content).
+{{< toc-tree >}}
