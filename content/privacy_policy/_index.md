@@ -2,7 +2,7 @@
 title: "Privacy Policy"
 date: 2021-07-11T14:29:29-05:00
 description: "The Running Stream privacy policy"
-weight: 1
+weight: 1000
 draft: false
 ---
 
